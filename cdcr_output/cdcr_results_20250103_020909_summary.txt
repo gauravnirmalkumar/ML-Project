@@ -1,0 +1,160 @@
+CDCR Analysis Summary
+Timestamp: 20250103_020909
+Total Documents: 28
+Total Clusters: 37
+Total Mentions: 79
+
+Cluster Summary:
+
+Cluster 1 (ORG):
+  - Apple (Doc 0)
+  - Microsoft (Doc 1)
+  - Apple (Doc 1)
+
+Cluster 2 (PERSON):
+  - Tim Cook (Doc 0)
+  - Cook (Doc 0)
+
+Cluster 3 (TECHNOLOGY):
+  - AI (Doc 0)
+  - AI (Doc 1)
+
+Cluster 4 (PRODUCT):
+  - Surface Pro (Doc 1)
+
+Cluster 5 (ORG):
+  - Tesla (Doc 2)
+  - Tesla (Doc 3)
+  - Tesla (Doc 6)
+  - SpaceX (Doc 6)
+  - Tesla (Doc 10)
+  - Tesla (Doc 11)
+  - BMW (Doc 16)
+  - BMW (Doc 17)
+  - SpaceX (Doc 26)
+  - SpaceX (Doc 27)
+
+Cluster 6 (PRODUCT):
+  - Cybertruck (Doc 2)
+  - Cybertruck (Doc 3)
+
+Cluster 7 (ORG):
+  - Ford (Doc 2)
+  - Ford (Doc 3)
+  - Ford (Doc 11)
+
+Cluster 8 (PRODUCT):
+  - F-150 Lightning (Doc 2)
+  - F-150 Lightning (Doc 3)
+  - F-150 Lightning (Doc 11)
+
+Cluster 9 (DATE):
+  - earlier this year (Doc 3)
+
+Cluster 10 (PERSON):
+  - Picasso (Doc 4)
+  - Picasso (Doc 5)
+
+Cluster 11 (MONEY):
+  - $200 million (Doc 4)
+  - $50 million (Doc 26)
+
+Cluster 12 (ORG):
+  - Sotheby's (Doc 4)
+
+Cluster 13 (ORG):
+  - The Louvre Museum (Doc 5)
+  - the Louvre Museum (Doc 14)
+  - The Louvre Museum (Doc 25)
+
+Cluster 14 (PERSON):
+  - Elon Musk (Doc 6)
+  - Elon Musk (Doc 7)
+
+Cluster 15 (LOC):
+  - Mars (Doc 6)
+  - Mars (Doc 7)
+
+Cluster 16 (ORG):
+  - NASA (Doc 7)
+  - The European Space Agency (Doc 17)
+  - NASA (Doc 27)
+
+Cluster 17 (ORG):
+  - Netflix (Doc 8)
+  - Netflix (Doc 9)
+  - Netflix (Doc 23)
+
+Cluster 18 (ORG):
+  - Harvard University (Doc 8)
+  - Harvard University (Doc 9)
+  - Oxford University (Doc 15)
+
+Cluster 19 (DATE):
+  - 5,000-year-old (Doc 9)
+  - 5,000-year-old (Doc 18)
+
+Cluster 20 (PRODUCT):
+  - Model S (Doc 10)
+
+Cluster 21 (VEHICLE):
+  - vehicle (Doc 10)
+  - vehicle (Doc 16)
+  - vehicle (Doc 17)
+
+Cluster 22 (FACILITY):
+  - the Golden Gate Bridge (Doc 10)
+  - The Eiffel Tower (Doc 24)
+  - the Eiffel Tower (Doc 25)
+
+Cluster 23 (ORG):
+  - Amazon (Doc 12)
+  - Amazon (Doc 13)
+
+Cluster 24 (ORG):
+  - Google (Doc 12)
+  - Google (Doc 13)
+
+Cluster 25 (PRODUCT):
+  - Project Wing (Doc 13)
+
+Cluster 26 (WORK_OF_ART):
+  - The Mona Lisa (Doc 14)
+  - the Mona Lisa (Doc 15)
+
+Cluster 27 (PERSON):
+  - Leonardo da Vinci (Doc 14)
+
+Cluster 28 (PRODUCT):
+  - iX (Doc 16)
+
+Cluster 29 (FACILITY):
+  - The James Webb Space Telescope (Doc 19)
+
+Cluster 30 (NORP):
+  - Mesopotamian (Doc 19)
+
+Cluster 31 (CARDINAL):
+  - two (Doc 20)
+  - three (Doc 20)
+
+Cluster 32 (CARDINAL):
+  - millions (Doc 24)
+  - millions (Doc 25)
+
+Cluster 33 (DATE):
+  - annually (Doc 24)
+  - each year (Doc 25)
+
+Cluster 34 (NORP):
+  - French (Doc 25)
+
+Cluster 35 (PRODUCT):
+  - Falcon 9 (Doc 26)
+  - Falcon 9 (Doc 27)
+
+Cluster 36 (FACILITY):
+  - The International Space Station (Doc 27)
+
+Cluster 37 (ORG):
+  - ISS (Doc 27)

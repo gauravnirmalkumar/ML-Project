@@ -1,0 +1,782 @@
+{
+  "timestamp": "20250103_020909",
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Apple",
+          "doc_id": 0,
+          "start": 0,
+          "end": 5,
+          "context": "Apple CEO Tim Cook announced new AI features at their C"
+        },
+        {
+          "text": "Microsoft",
+          "doc_id": 1,
+          "start": 0,
+          "end": 9,
+          "context": "Microsoft revealed its new Surface Pro laptop at an event i"
+        },
+        {
+          "text": "Apple",
+          "doc_id": 1,
+          "start": 146,
+          "end": 151,
+          "context": "egrates AI features similar to those announced by Apple."
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "entity_type": "PERSON",
+      "mentions": [
+        {
+          "text": "Tim Cook",
+          "doc_id": 0,
+          "start": 10,
+          "end": 18,
+          "context": "Apple CEO Tim Cook announced new AI features at their Cupertino head"
+        },
+        {
+          "text": "Cook",
+          "doc_id": 0,
+          "start": 78,
+          "end": 82,
+          "context": "new AI features at their Cupertino headquarters. Cook emphasized privacy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "entity_type": "TECHNOLOGY",
+      "mentions": [
+        {
+          "text": "AI",
+          "doc_id": 0,
+          "start": 33,
+          "end": 35,
+          "context": "Apple CEO Tim Cook announced new AI features at their Cupertino headquarters. Cook em"
+        },
+        {
+          "text": "AI",
+          "doc_id": 1,
+          "start": 104,
+          "end": 106,
+          "context": "ent in Redmond, Washington. The device integrates AI features similar to those announced by Apple."
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "Surface Pro",
+          "doc_id": 1,
+          "start": 27,
+          "end": 38,
+          "context": "Microsoft revealed its new Surface Pro laptop at an event in Redmond, Washington. The de"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Tesla",
+          "doc_id": 2,
+          "start": 0,
+          "end": 5,
+          "context": "Tesla's Cybertruck prototype was showcased at an event"
+        },
+        {
+          "text": "Tesla",
+          "doc_id": 3,
+          "start": 98,
+          "end": 103,
+          "context": "er this year, with critics drawing comparisons to Tesla's Cybertruck."
+        },
+        {
+          "text": "Tesla",
+          "doc_id": 6,
+          "start": 18,
+          "end": 23,
+          "context": "Elon Musk, CEO of Tesla and SpaceX, shared plans for Mars colonization du"
+        },
+        {
+          "text": "SpaceX",
+          "doc_id": 6,
+          "start": 28,
+          "end": 34,
+          "context": "Elon Musk, CEO of Tesla and SpaceX, shared plans for Mars colonization during a conf"
+        },
+        {
+          "text": "Tesla",
+          "doc_id": 10,
+          "start": 4,
+          "end": 9,
+          "context": "The Tesla Model S electric vehicle was spotted near the Gol"
+        },
+        {
+          "text": "Tesla",
+          "doc_id": 11,
+          "start": 87,
+          "end": 92,
+          "context": "ttle has started promoting electric vehicles like Tesla and Ford\u2019s F-150 Lightning."
+        },
+        {
+          "text": "BMW",
+          "doc_id": 16,
+          "start": 0,
+          "end": 3,
+          "context": "BMW unveiled its newest electric vehicle, the iX, dur"
+        },
+        {
+          "text": "BMW",
+          "doc_id": 17,
+          "start": 151,
+          "end": 154,
+          "context": "ance of sustainability in global industries, like BMW\u2019s electric vehicle initiative."
+        },
+        {
+          "text": "SpaceX",
+          "doc_id": 26,
+          "start": 0,
+          "end": 6,
+          "context": "SpaceX launched its Falcon 9 rocket from Cape Canaveral"
+        },
+        {
+          "text": "SpaceX",
+          "doc_id": 27,
+          "start": 78,
+          "end": 84,
+          "context": "ion (ISS) recently received supplies delivered by SpaceX's Falcon 9, continuing their collaboration with N"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "Cybertruck",
+          "doc_id": 2,
+          "start": 8,
+          "end": 18,
+          "context": "Tesla's Cybertruck prototype was showcased at an event in Austin, Te"
+        },
+        {
+          "text": "Cybertruck",
+          "doc_id": 3,
+          "start": 106,
+          "end": 116,
+          "context": "year, with critics drawing comparisons to Tesla's Cybertruck."
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Ford",
+          "doc_id": 2,
+          "start": 98,
+          "end": 102,
+          "context": "event in Austin, Texas, alongside comparisons to Ford's electric F-150 Lightning."
+        },
+        {
+          "text": "Ford",
+          "doc_id": 3,
+          "start": 0,
+          "end": 4,
+          "context": "Ford unveiled its electric F-150 Lightning earlier thi"
+        },
+        {
+          "text": "Ford",
+          "doc_id": 11,
+          "start": 97,
+          "end": 101,
+          "context": "tarted promoting electric vehicles like Tesla and Ford\u2019s F-150 Lightning."
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "F-150 Lightning",
+          "doc_id": 2,
+          "start": 114,
+          "end": 129,
+          "context": ", Texas, alongside comparisons to Ford's electric F-150 Lightning."
+        },
+        {
+          "text": "F-150 Lightning",
+          "doc_id": 3,
+          "start": 27,
+          "end": 42,
+          "context": "Ford unveiled its electric F-150 Lightning earlier this year, with critics drawing compariso"
+        },
+        {
+          "text": "F-150 Lightning",
+          "doc_id": 11,
+          "start": 104,
+          "end": 119,
+          "context": "promoting electric vehicles like Tesla and Ford\u2019s F-150 Lightning."
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "entity_type": "DATE",
+      "mentions": [
+        {
+          "text": "earlier this year",
+          "doc_id": 3,
+          "start": 43,
+          "end": 60,
+          "context": "Ford unveiled its electric F-150 Lightning earlier this year, with critics drawing comparisons to Tesla's Cybe"
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "entity_type": "PERSON",
+      "mentions": [
+        {
+          "text": "Picasso",
+          "doc_id": 4,
+          "start": 2,
+          "end": 9,
+          "context": "A Picasso painting was auctioned for $200 million at Sotheb"
+        },
+        {
+          "text": "Picasso",
+          "doc_id": 5,
+          "start": 58,
+          "end": 65,
+          "context": "re Museum in Paris plans to host an exhibition on Picasso's lesser-known works, complementing his recent au"
+        }
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "entity_type": "MONEY",
+      "mentions": [
+        {
+          "text": "$200 million",
+          "doc_id": 4,
+          "start": 37,
+          "end": 49,
+          "context": "A Picasso painting was auctioned for $200 million at Sotheby's in New York, setting a new record."
+        },
+        {
+          "text": "$50 million",
+          "doc_id": 26,
+          "start": 65,
+          "end": 76,
+          "context": "its Falcon 9 rocket from Cape Canaveral carrying $50 million worth of satellites."
+        }
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Sotheby's",
+          "doc_id": 4,
+          "start": 53,
+          "end": 62,
+          "context": "icasso painting was auctioned for $200 million at Sotheby's in New York, setting a new record."
+        }
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "The Louvre Museum",
+          "doc_id": 5,
+          "start": 0,
+          "end": 17,
+          "context": "The Louvre Museum in Paris plans to host an exhibition on Picasso's"
+        },
+        {
+          "text": "the Louvre Museum",
+          "doc_id": 14,
+          "start": 61,
+          "end": 78,
+          "context": "sa, painted by Leonardo da Vinci, is displayed at the Louvre Museum in Paris."
+        },
+        {
+          "text": "The Louvre Museum",
+          "doc_id": 25,
+          "start": 0,
+          "end": 17,
+          "context": "The Louvre Museum, not far from the Eiffel Tower, also draws millio"
+        }
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "entity_type": "PERSON",
+      "mentions": [
+        {
+          "text": "Elon Musk",
+          "doc_id": 6,
+          "start": 0,
+          "end": 9,
+          "context": "Elon Musk, CEO of Tesla and SpaceX, shared plans for Mars c"
+        },
+        {
+          "text": "Elon Musk",
+          "doc_id": 7,
+          "start": 120,
+          "end": 129,
+          "context": "pport colonization efforts like those proposed by Elon Musk."
+        }
+      ]
+    },
+    {
+      "cluster_id": 15,
+      "entity_type": "LOC",
+      "mentions": [
+        {
+          "text": "Mars",
+          "doc_id": 6,
+          "start": 53,
+          "end": 57,
+          "context": "n Musk, CEO of Tesla and SpaceX, shared plans for Mars colonization during a conference in Los Angeles."
+        },
+        {
+          "text": "Mars",
+          "doc_id": 7,
+          "start": 25,
+          "end": 29,
+          "context": "NASA's latest mission to Mars is designed to gather data that could support col"
+        }
+      ]
+    },
+    {
+      "cluster_id": 16,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "NASA",
+          "doc_id": 7,
+          "start": 0,
+          "end": 4,
+          "context": "NASA's latest mission to Mars is designed to gather da"
+        },
+        {
+          "text": "The European Space Agency",
+          "doc_id": 17,
+          "start": 0,
+          "end": 25,
+          "context": "The European Space Agency launched a new satellite to monitor climate chang"
+        },
+        {
+          "text": "NASA",
+          "doc_id": 27,
+          "start": 133,
+          "end": 137,
+          "context": "X's Falcon 9, continuing their collaboration with NASA."
+        }
+      ]
+    },
+    {
+      "cluster_id": 17,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Netflix",
+          "doc_id": 8,
+          "start": 0,
+          "end": 7,
+          "context": "Netflix released a new documentary series exploring ancie"
+        },
+        {
+          "text": "Netflix",
+          "doc_id": 9,
+          "start": 128,
+          "end": 135,
+          "context": "old city discovered in Mesopotamia, referenced in Netflix's documentary."
+        },
+        {
+          "text": "Netflix",
+          "doc_id": 23,
+          "start": 40,
+          "end": 47,
+          "context": "The orphan\u2019s story is mirrored in a new Netflix series about a child navigating a post-apocalypti"
+        }
+      ]
+    },
+    {
+      "cluster_id": 18,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Harvard University",
+          "doc_id": 8,
+          "start": 121,
+          "end": 139,
+          "context": "ns, featuring interviews with archaeologists from Harvard University."
+        },
+        {
+          "text": "Harvard University",
+          "doc_id": 9,
+          "start": 15,
+          "end": 33,
+          "context": "Researchers at Harvard University recently published findings on a 5,000-year-old c"
+        },
+        {
+          "text": "Oxford University",
+          "doc_id": 15,
+          "start": 125,
+          "end": 142,
+          "context": "Lisa, was recently authenticated by scientists at Oxford University."
+        }
+      ]
+    },
+    {
+      "cluster_id": 19,
+      "entity_type": "DATE",
+      "mentions": [
+        {
+          "text": "5,000-year-old",
+          "doc_id": 9,
+          "start": 67,
+          "end": 81,
+          "context": "rvard University recently published findings on a 5,000-year-old city discovered in Mesopotamia, referenced in Net"
+        },
+        {
+          "text": "5,000-year-old",
+          "doc_id": 18,
+          "start": 38,
+          "end": 52,
+          "context": "A team of archaeologists discovered a 5,000-year-old city in Mesopotamia, shedding light on early huma"
+        }
+      ]
+    },
+    {
+      "cluster_id": 20,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "Model S",
+          "doc_id": 10,
+          "start": 10,
+          "end": 17,
+          "context": "The Tesla Model S electric vehicle was spotted near the Golden Gate"
+        }
+      ]
+    },
+    {
+      "cluster_id": 21,
+      "entity_type": "VEHICLE",
+      "mentions": [
+        {
+          "text": "vehicle",
+          "doc_id": 10,
+          "start": 27,
+          "end": 34,
+          "context": "The Tesla Model S electric vehicle was spotted near the Golden Gate Bridge in San Fr"
+        },
+        {
+          "text": "vehicle",
+          "doc_id": 16,
+          "start": 33,
+          "end": 40,
+          "context": "BMW unveiled its newest electric vehicle, the iX, during an auto show in Munich, Germany,"
+        },
+        {
+          "text": "vehicle",
+          "doc_id": 17,
+          "start": 166,
+          "end": 173,
+          "context": "ability in global industries, like BMW\u2019s electric vehicle initiative."
+        }
+      ]
+    },
+    {
+      "cluster_id": 22,
+      "entity_type": "FACILITY",
+      "mentions": [
+        {
+          "text": "the Golden Gate Bridge",
+          "doc_id": 10,
+          "start": 52,
+          "end": 74,
+          "context": "e Tesla Model S electric vehicle was spotted near the Golden Gate Bridge in San Francisco, catching the eye of a group of"
+        },
+        {
+          "text": "The Eiffel Tower",
+          "doc_id": 24,
+          "start": 0,
+          "end": 16,
+          "context": "The Eiffel Tower in Paris is one of the most visited landmarks in"
+        },
+        {
+          "text": "the Eiffel Tower",
+          "doc_id": 25,
+          "start": 32,
+          "end": 48,
+          "context": "The Louvre Museum, not far from the Eiffel Tower, also draws millions of visitors each year, often"
+        }
+      ]
+    },
+    {
+      "cluster_id": 23,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Amazon",
+          "doc_id": 12,
+          "start": 0,
+          "end": 6,
+          "context": "Amazon's drone delivery system is now being tested in Se"
+        },
+        {
+          "text": "Amazon",
+          "doc_id": 13,
+          "start": 127,
+          "end": 133,
+          "context": "a, but experts are comparing their performance to Amazon\u2019s systems in Seattle."
+        }
+      ]
+    },
+    {
+      "cluster_id": 24,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "Google",
+          "doc_id": 12,
+          "start": 129,
+          "end": 135,
+          "context": "quipped with advanced GPS systems to compete with Google's delivery drones."
+        },
+        {
+          "text": "Google",
+          "doc_id": 13,
+          "start": 0,
+          "end": 6,
+          "context": "Google's delivery drones, part of Project Wing, were tes"
+        }
+      ]
+    },
+    {
+      "cluster_id": 25,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "Project Wing",
+          "doc_id": 13,
+          "start": 34,
+          "end": 46,
+          "context": "Google's delivery drones, part of Project Wing, were tested in rural Australia, but experts are"
+        }
+      ]
+    },
+    {
+      "cluster_id": 26,
+      "entity_type": "WORK_OF_ART",
+      "mentions": [
+        {
+          "text": "The Mona Lisa",
+          "doc_id": 14,
+          "start": 0,
+          "end": 13,
+          "context": "The Mona Lisa, painted by Leonardo da Vinci, is displayed at th"
+        },
+        {
+          "text": "the Mona Lisa",
+          "doc_id": 15,
+          "start": 66,
+          "end": 79,
+          "context": "ed sketch, thought to be a preliminary version of the Mona Lisa, was recently authenticated by scientists at Oxfo"
+        }
+      ]
+    },
+    {
+      "cluster_id": 27,
+      "entity_type": "PERSON",
+      "mentions": [
+        {
+          "text": "Leonardo da Vinci",
+          "doc_id": 14,
+          "start": 26,
+          "end": 43,
+          "context": "The Mona Lisa, painted by Leonardo da Vinci, is displayed at the Louvre Museum in Paris."
+        }
+      ]
+    },
+    {
+      "cluster_id": 28,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "iX",
+          "doc_id": 16,
+          "start": 46,
+          "end": 48,
+          "context": "BMW unveiled its newest electric vehicle, the iX, during an auto show in Munich, Germany, emphasiz"
+        }
+      ]
+    },
+    {
+      "cluster_id": 29,
+      "entity_type": "FACILITY",
+      "mentions": [
+        {
+          "text": "The James Webb Space Telescope",
+          "doc_id": 19,
+          "start": 0,
+          "end": 30,
+          "context": "The James Webb Space Telescope captured high-resolution images of the Mesopotami"
+        }
+      ]
+    },
+    {
+      "cluster_id": 30,
+      "entity_type": "NORP",
+      "mentions": [
+        {
+          "text": "Mesopotamian",
+          "doc_id": 19,
+          "start": 70,
+          "end": 82,
+          "context": "Telescope captured high-resolution images of the Mesopotamian region, aiding archaeologists in studying ancient"
+        }
+      ]
+    },
+    {
+      "cluster_id": 31,
+      "entity_type": "CARDINAL",
+      "mentions": [
+        {
+          "text": "two",
+          "doc_id": 20,
+          "start": 57,
+          "end": 60,
+          "context": "e mother in Mumbai shared her struggles balancing two jobs and raising three children in a bustling cit"
+        },
+        {
+          "text": "three",
+          "doc_id": 20,
+          "start": 78,
+          "end": 83,
+          "context": "ared her struggles balancing two jobs and raising three children in a bustling city."
+        }
+      ]
+    },
+    {
+      "cluster_id": 32,
+      "entity_type": "CARDINAL",
+      "mentions": [
+        {
+          "text": "millions",
+          "doc_id": 24,
+          "start": 88,
+          "end": 96,
+          "context": "e most visited landmarks in the world, attracting millions of tourists annually."
+        },
+        {
+          "text": "millions",
+          "doc_id": 25,
+          "start": 61,
+          "end": 69,
+          "context": "Museum, not far from the Eiffel Tower, also draws millions of visitors each year, often including tourists i"
+        }
+      ]
+    },
+    {
+      "cluster_id": 33,
+      "entity_type": "DATE",
+      "mentions": [
+        {
+          "text": "annually",
+          "doc_id": 24,
+          "start": 109,
+          "end": 117,
+          "context": "rks in the world, attracting millions of tourists annually."
+        },
+        {
+          "text": "each year",
+          "doc_id": 25,
+          "start": 82,
+          "end": 91,
+          "context": "the Eiffel Tower, also draws millions of visitors each year, often including tourists interested in French ar"
+        }
+      ]
+    },
+    {
+      "cluster_id": 34,
+      "entity_type": "NORP",
+      "mentions": [
+        {
+          "text": "French",
+          "doc_id": 25,
+          "start": 132,
+          "end": 138,
+          "context": "each year, often including tourists interested in French art and history."
+        }
+      ]
+    },
+    {
+      "cluster_id": 35,
+      "entity_type": "PRODUCT",
+      "mentions": [
+        {
+          "text": "Falcon 9",
+          "doc_id": 26,
+          "start": 20,
+          "end": 28,
+          "context": "SpaceX launched its Falcon 9 rocket from Cape Canaveral carrying $50 million w"
+        },
+        {
+          "text": "Falcon 9",
+          "doc_id": 27,
+          "start": 87,
+          "end": 95,
+          "context": "recently received supplies delivered by SpaceX's Falcon 9, continuing their collaboration with NASA."
+        }
+      ]
+    },
+    {
+      "cluster_id": 36,
+      "entity_type": "FACILITY",
+      "mentions": [
+        {
+          "text": "The International Space Station",
+          "doc_id": 27,
+          "start": 0,
+          "end": 31,
+          "context": "The International Space Station (ISS) recently received supplies delivered by Spa"
+        }
+      ]
+    },
+    {
+      "cluster_id": 37,
+      "entity_type": "ORG",
+      "mentions": [
+        {
+          "text": "ISS",
+          "doc_id": 27,
+          "start": 33,
+          "end": 36,
+          "context": "The International Space Station (ISS) recently received supplies delivered by SpaceX's"
+        }
+      ]
+    }
+  ],
+  "document_analysis": [],
+  "similarity_scores": []
+}
